@@ -1,0 +1,14 @@
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.exe
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.deps.json
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.runtimeconfig.json
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.runtimeconfig.dev.json
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.dll
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\bin\Debug\netcoreapp3.1\Class_and_Inheritance.pdb
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.csproj.AssemblyReference.cache
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.AssemblyInfoInputs.cache
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.AssemblyInfo.cs
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.dll
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.pdb
+C:\Users\tu4rwlg2x\Desktop\Class_and_Inheritance\Class_and_Inheritance\obj\Debug\netcoreapp3.1\Class_and_Inheritance.genruntimeconfig.cache
